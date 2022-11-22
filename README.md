@@ -22,5 +22,5 @@ Trish will create a pie graph that demostrates a high level view of whicfh type 
 
 Joy will put together a stacked bar graph that demostrates the most popular model of vehicle by county,
 
-#David--
+# David
 
