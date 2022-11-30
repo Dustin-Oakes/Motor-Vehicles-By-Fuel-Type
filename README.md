@@ -35,7 +35,7 @@ Dustin will create a heat map displaying the general locations of the dealership
 
 The heatmap shows that, in general, major cities tend to be the locations that most non-gas vehicles are being sold. There are some outliers on the I-5 near Canada that are interesting, and some cities appear to be outperforing larger counterparts (notably, Olympia, with a modest population of 55k, exceeds expectations for its size and is a large bright red dot on the map). It is not a surprise though that the recomendation for our hypothetical client is still Washington's most populous city, Seattle.
 
-
+![output_heatmap_figure](https://github.com/Dustin-Oakes/Motor-Vehicles-By-Fuel-Type/blob/d689497aab94a960865072085663995d1eec17a8/Dustin/heatmap%20figure.png)
 
 # Pie graph
 
