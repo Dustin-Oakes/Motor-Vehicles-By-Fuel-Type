@@ -28,4 +28,11 @@ David will put together a bar graph that shows the most popular Brands in Washin
 
 Joy will put together a stacked bar graph that demostrates the most popular model of vehicle by county.
 
-According to the bar graph that shows the most popular Brands in WA, we knows that the top four popular brands are Tesla, Ford, Chevrolet, and Nissan. As a result, we would like to know vehicle brand distribution in each county. We decided to use stacked bar graph so that we could see the brand distribution in each county clearly. The stacked bar graph shows Tesla is the most popular electric vehicle brand in each county. And King county owns the most electric cars, followed by Snohomish,  Pierce, and Clark county.
+According to the bar graph that shows the most popular Brands in WA, we knows that the top four popular brands are Tesla, Ford, Chevrolet, and Nissan. As a result, we would like to know vehicle brand distribution in each county. We decided to use stacked bar graph so that we could see the brand distribution in each county clearly. First, we included all the county and the stacked bar graph shows King county owns the most electric cars, followed by Snohomish,  Pierce, and Clark county.
+
+![output](https://user-images.githubusercontent.com/114762540/204709883-bedc12dc-5253-46ac-85b1-db92a12ffd59.png)
+
+However, other countys' information didn't show clearly because of large amount in King county, we also generate a graph that exclude King county. The figure shows Tesla is the most popular brand in all county, followed by Chevrolet or Nissan.
+
+
+![output_exclude_King](https://user-images.githubusercontent.com/114762540/204710532-32112bde-fffe-4749-8543-744cd78a847a.png)
