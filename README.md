@@ -12,14 +12,6 @@ First we were asked to determine the most popular electric vehicle type across t
 
 Rob will put together a line graph demonstrating the popularity of hybrid vs. electric vehicles year over year since 2011.
 
-# Heat Map
-
-Dustin will create a heat map displaying the location of the dealerships that sold the most non-gas vehicles.
-
-# Pie graph
-
-Trish will create a pie graph that demostrates a high level view of whicfh type of vehicle was the most popular over the span of 2011-present,.
-
 # Bar graph
 
 David will put together a bar graph that shows the most popular Brands in Washington. (brands sales over 1,000 units.) 
@@ -36,3 +28,11 @@ However, other countys' information didn't show clearly because of large amount 
 
 
 ![output_exclude_King](https://user-images.githubusercontent.com/114762540/204710532-32112bde-fffe-4749-8543-744cd78a847a.png)
+
+# Heat Map
+
+Dustin will create a heat map displaying the location of the dealerships that sold the most non-gas vehicles.
+
+# Pie graph
+
+Trish will create a pie graph that demostrates a detailed view of which counties purchased relevant vehicles over the span of 2011-present.
