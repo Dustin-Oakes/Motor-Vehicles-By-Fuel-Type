@@ -2,6 +2,9 @@
 
 Group 3 compiled hybrid vs. electric vehicle data from car dealerships across Washington State from 2011 - present. With this data, we wanted to discover:
 
+
+##Analysis
+
 # Bar graph 
 
 Angel will put together the bar graph that demonstrates which type of vehicle is the most popular in WA since 2011.
