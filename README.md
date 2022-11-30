@@ -3,7 +3,7 @@
 Group 3 compiled hybrid vs. electric vehicle data from car dealerships across Washington State from 2011 - present. With this data, we wanted to discover:
 
 
-##Analysis##
+**Analysis**
 
 # Bar graph 
 
