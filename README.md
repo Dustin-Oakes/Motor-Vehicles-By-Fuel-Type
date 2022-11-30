@@ -5,21 +5,21 @@ Group 3 compiled hybrid vs. electric vehicle data from car dealerships across Wa
 
 # **Analysis**
 
-# Bar graph 
+## Bar graph 
 
 Angel will put together the bar graph that demonstrates which type of vehicle is the most popular in WA since 2011.
 
 First we were asked to determine the most popular electric vehicle type across the entire state of Washington since 2011. Our graph shows that the battery electric vehicle(BEV) is by far the most popular compared to the plug in hybrid electric vehicle(PEV). Since 2011 there have been a total of 82,575 BEV registered in the state of Washington compared to only 26,555 PEV.
 
-# Line graph
+## Line graph
 
 Rob will put together a line graph demonstrating the popularity of hybrid vs. electric vehicles year over year since 2011.
 
-# Bar graph
+## Bar graph
 
 David will put together a bar graph that shows the most popular Brands in Washington. (brands sales over 1,000 units.) 
 
-# Stacked bar graph
+## Stacked bar graph
 
 Joy will put together a stacked bar graph that demostrates the most popular model of vehicle by county.
 
@@ -32,7 +32,7 @@ However, other countys' information didn't show clearly because of large amount 
 
 ![output_exclude_King](https://user-images.githubusercontent.com/114762540/204710532-32112bde-fffe-4749-8543-744cd78a847a.png)
 
-# Heat Map
+## Heat Map
 
 Dustin will create a heat map displaying the general locations of the dealerships that sold the most non-gas vehicles.
 
@@ -40,6 +40,6 @@ The heatmap shows that, in general, major cities tend to be the locations that m
 
 ![output_heatmap_figure](https://github.com/Dustin-Oakes/Motor-Vehicles-By-Fuel-Type/blob/d689497aab94a960865072085663995d1eec17a8/Dustin/heatmap%20figure.png)
 
-# Pie graph
+## Pie graph
 
 Trish will create a pie graph that demostrates a detailed view of which counties purchased relevant vehicles over the span of 2011-present.
