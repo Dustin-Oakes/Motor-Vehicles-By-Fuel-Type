@@ -3,6 +3,18 @@
 Group 3 compiled hybrid vs. electric vehicle data from car dealerships across Washington State from 2011 - present. With this data, we wanted to discover:
 
 
+# **Background**
+An imaginary client wants to open a used car dealership in Washington State. The client wants to specialize in either fuel efficient hybrid vehicles or in battery-powered electric vehicles. They also want to stock the most popular make of car for the area that they open their lot in. Ideally, they want to open their lot in an area where there are a lot of new cars sold, to both buy those cars after they are used and to resell them in a market that has a lot of potential buyers.
+
+They have three specific questions that they’d like us to answer so they know where to open their new lot and which cars they should fill it with:
+
+  1. Which type of vehicle, hybrid or electric, is more popular and which is likely to be more popular in the future?
+
+  2. Which make of car is most popular in the State, and individually in each county?
+
+  3. Where is the highest volume of new cars sold?
+
+
 # **Analysis**
 
 ### Bar graph 
