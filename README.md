@@ -25,12 +25,13 @@ Joy will put together a stacked bar graph that demostrates the most popular mode
 
 According to the bar graph that shows the most popular Brands in WA, we knows that the top four popular brands are Tesla, Ford, Chevrolet, and Nissan. As a result, we would like to know vehicle brand distribution in each county. We decided to use stacked bar graph so that we could see the brand distribution in each county clearly. First, we included all the county and the stacked bar graph shows King county owns the most electric cars, followed by Snohomish,  Pierce, and Clark county.
 
-![output](https://user-images.githubusercontent.com/114762540/204709883-bedc12dc-5253-46ac-85b1-db92a12ffd59.png)
+![stacked bar](https://user-images.githubusercontent.com/114762540/204717094-adb0ff00-ee91-4de6-9cd5-59a4394774c1.png)
+
 
 However, other countys' information didn't show clearly because of large amount in King county, we also generate a graph that exclude King county. The figure shows Tesla is the most popular brand in all county, followed by Chevrolet or Nissan.
 
+![stacked bar_exclude King](https://user-images.githubusercontent.com/114762540/204717120-97c1a2de-0b0a-4042-80f2-a8e38d90a27f.png)
 
-![output_exclude_King](https://user-images.githubusercontent.com/114762540/204710532-32112bde-fffe-4749-8543-744cd78a847a.png)
 
 ### Heat Map
 
