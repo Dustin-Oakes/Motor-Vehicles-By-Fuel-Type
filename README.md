@@ -70,5 +70,14 @@ The heatmap shows that, in general, major cities tend to be the locations that m
 Trish will create a pie chart analyzing the ten counties with the lowest and highest electric car sales in Washington.
 ![Top_Ten_EC_Sales](https://user-images.githubusercontent.com/114893984/204955886-700046bd-79b7-41b1-b126-d372ad95eed2.png)
 
+Out of 39 counties and 109,137 electric cars sold and registered in Washington, King County accounts for 52.6% of all electric vehicles in the state of Washington. 
+Followed by Snohomish - 12,018 EV’s (11%) and Pierce - 8,211 EV’s (7.5%). 
+
+
+![Bottom_Ten_EC_Sales](https://user-images.githubusercontent.com/114893984/204960130-46b08b3d-3c0c-4541-9820-d37b931ab6a7.png)
+
+Garfield County has the lowest electric car sales, with only 4 cars sold and registered making up about 0.003% of the electric vehicles in the state of Washington. This is followed by Columbia with only 13 EV’s (0.01%) and Ferry with 27 EV’s (0.02%). 
+
+
 
 
