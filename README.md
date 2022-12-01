@@ -24,6 +24,9 @@ Angel will put together the bar graph that demonstrates which type of vehicle is
 
 First we were asked to determine the most popular electric vehicle type across the entire state of Washington since 2011. Our graph shows that the battery electric vehicle(BEV) is by far the most popular compared to the plug in hybrid electric vehicle(PEV). Since 2011 there have been a total of 82,575 BEV registered in the state of Washington compared to only 26,555 PEV.
 
+![image](https://user-images.githubusercontent.com/114929089/204949565-b7a6e355-4ba5-4045-afb6-09ac51a64bca.png)
+
+
 ### A1-2: Line graph
 
 Rob will put together a line graph demonstrating the popularity of hybrid vs. electric vehicles year over year since 2011.
