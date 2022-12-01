@@ -67,6 +67,8 @@ The heatmap shows that, in general, major cities tend to be the locations that m
 
 ### A3-2: Pie graph
 
-Trish will create a pie graph that demostrates a detailed view of which counties purchased relevant vehicles over the span of 2011-present.
-In the state of Washington, battery electric vehicles were the most popular type of electric car. The county with the most Battery Electric Vehicles is King County, as demonstrated in the pie graph below. King County makes up 55% of all Battery Electric Vehicles in the state of Washington.
-![BEV_per_County](https://user-images.githubusercontent.com/114893984/204914084-782be937-147b-4b81-ada4-34dea5213d5d.png)
+Trish will create a pie chart analyzing the ten counties with the lowest and highest electric car sales in Washington.
+![Top_Ten_EC_Sales](https://user-images.githubusercontent.com/114893984/204955886-700046bd-79b7-41b1-b126-d372ad95eed2.png)
+
+
+
