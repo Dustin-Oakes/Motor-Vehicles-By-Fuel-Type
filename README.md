@@ -33,15 +33,14 @@ First we were asked to determine the most popular electric vehicle type across t
 
 Rob will put together a line graph demonstrating the popularity of hybrid vs. electric vehicles year over year since 2011.
 
-## Q2: Which make of car is most popular in the State, and individually in each county?
+A line graph was put together to demonstrate the relationship between the sales of electric vehicle vs. their model year. The graph shows that even though  Baterry Electric Vehicles(BEV) and Hybrid Electric Vehicles(PEV)both kept selling new models annualy, New Models made by PEVs started seeing their growth plateua or decline in 2018, while BEVs skyrocketd in 2018.
 
+![Line Chart](https://raw.githubusercontent.com/Dustin-Oakes/Motor-Vehicles-By-Fuel-Type/main/Robert/Line%20Graph%20Over%20Time.png)
+
+## Q2: Which make of car is most popular in the State, and individually in each county?
 ### A2-1: Bar graph
 
-David will put together a bar graph that shows the most popular Brands in Washington. 
-
-This Bar chart shows you the most in demand Eletric/Hybrid Brands in Washington. Filtered out brands who didnt sell 1000+ units. 
-Visual representation of brand sells to determine best ROI. 
-
+David will put together a bar graph that shows the most popular Brands in Washington. (brands sales over 1,000 units.) 
 ![Bar Chart](https://github.com/Dustin-Oakes/Motor-Vehicles-By-Fuel-Type/blob/main/David/Bar_Chart1.png)
 
 ### A2-2: Stacked bar graph
