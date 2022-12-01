@@ -32,6 +32,7 @@ Rob will put together a line graph demonstrating the popularity of hybrid vs. el
 ### A2-1: Bar graph
 
 David will put together a bar graph that shows the most popular Brands in Washington. (brands sales over 1,000 units.) 
+![Bar Chart](https://github.com/Dustin-Oakes/Motor-Vehicles-By-Fuel-Type/blob/main/David/Bar_Chart1.png)
 
 ### A2-2: Stacked bar graph
 
